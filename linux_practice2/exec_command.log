@@ -1,0 +1,8 @@
+    1  cd /root
+    2  ls
+    3  cd server_lesson
+    4  ls
+    5  cd linux_practice2
+    6  ls
+    7  vi .gitignore
+    8  history 300 > exec_command.log
